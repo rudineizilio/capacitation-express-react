@@ -1,0 +1,23 @@
+.deleteButton {
+  background-color: #f44336;
+}
+  
+.editButton {
+  background-color: #4CAF50;
+}
+
+.button {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.loading {
+  margin-top: 80px;
+}
+
+.table {
+  margin-top: 50px;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+  
